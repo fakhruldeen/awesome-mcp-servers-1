@@ -255,6 +255,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[TalentoHQ](https://hr.talentohq.com/mcp)** – Connect to the [TalentoHQ HR software](https://talentohq.com/features/mcp) via MCP. Transform your organization with the AI first HR software.
 - **[Taskade](https://github.com/taskade/mcp)** – Connect to the [Taskade platform](https://www.taskade.com/) via MCP. Access tasks, projects, workflows, and AI agents in real-time through a unified workspace and API.
 - **[Taskeract](https://github.com/Acqusys/taskeract-mcp)** - Official Taskeract MCP Server for integrating your [Taskeract](https://www.taskeract.com/) project tasks and load the context of your tasks into your MCP enabled app.
+- **[Tasleemat](https://github.com/fakhruldeen/Tasleemat)** 🏛️ - Enterprise bilingual (EN/AR) PMO Operating System with 114 standardized deliverables, stage-gate governance, and structural validation.
 - **[Tavily](https://github.com/tavily-ai/tavily-mcp)** - Search engine for AI agents (search + extract) powered by [Tavily](https://tavily.com/)
 - **[Tencent Cloud COS MCP](https://github.com/Tencent/cos-mcp)** - Quickly integrate with Tencent Cloud Storage (COS) and Data Processing (CI) capabilities powered
 - **[Teradata](https://github.com/Teradata/teradata-mcp-server)** - A collection of tools for managing the platform, addressing data quality and reading and writing to [Teradata](https://www.teradata.com/) Database.
